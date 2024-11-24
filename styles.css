@@ -1,0 +1,22 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: auto;
+}
+
+li {
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+  justify-content: space-between;
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+.recipes {
+  text-align: center;
+}
